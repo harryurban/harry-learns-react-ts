@@ -1,9 +1,9 @@
 .teaser-box {
-    border: solid #282c34;
-    margin: 5px 5px 5px 5px;
+    margin: 5px;
+    padding: 20px;
     max-width: 400px;
     display: block;
-
+    background-color: white;
 }
 .topic {
     color: dodgerblue;
