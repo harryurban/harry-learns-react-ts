@@ -1,0 +1,15 @@
+.teaser-box {
+    border: solid #282c34;
+    margin: 5px 5px 5px 5px;
+    max-width: 400px;
+    display: block;
+
+}
+.topic {
+    color: dodgerblue;
+
+}
+
+.headline {
+    font-size: 2em;
+}
