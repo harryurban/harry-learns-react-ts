@@ -1,0 +1,6 @@
+.teaser-wrapper {
+    background-color: lightgray;
+    max-width: 100vw;
+    display: flex;
+    flex-wrap: wrap;
+}

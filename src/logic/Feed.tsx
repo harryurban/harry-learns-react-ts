@@ -1,29 +1,86 @@
 import React from 'react';
-import Parser from 'rss-parser';
 import Teaser from "../components/Teaser/Teaser";
+import './Feed.css'
+// @ts-ignore
+import * as rssParser from 'react-native-rss-parser';
 
-function Feed(props: {}){
-    const parser = new Parser();
-    let response = "";
-
-    (async () => {
-
-        let feed = await parser.parseURL('http://localhost:5000/feed.rss');
-
-        if (feed.items) {
-            console.log(feed.items.length);
-            for (let item of feed.items) {
-                console.log("adding entry");
-                // @ts-ignore
-                response += <Teaser introText={item.contentSnippet} headline={item.title} topic={item.pubDate}/>
-            }
-        } else {
-            console.log("No Items in Feed or error.")
-        }
-        return <React.Fragment>{response}</React.Fragment>;
-    })();
-    console.log("response has lenght: " + response.length);
-    return <React.Fragment>{response}</React.Fragment>;
+type State = {
+    teasers: TeaserData[]
 }
 
-export default Feed;
+type TeaserData = {
+    topic: string,
+    introText: string,
+    headline: string,
+    img: string
+}
+
+interface Props {
+
+}
+
+
+class FeedComponent extends React.Component<Props, State> {
+
+    constructor(props: Props) {
+        super(props);
+        this.state = {
+            teasers: []
+        };
+        this.fetch = this.fetch.bind(this);
+    }
+
+    componentDidMount() {
+        this.fetch()
+    }
+
+    render() {
+        let markup = [];
+        for (let teaser of this.state.teasers) {
+            markup.push(<Teaser topic={teaser.topic} introText={teaser.introText} headline={teaser.headline} img={teaser.img}/>)
+        }
+        return <div className={"teaser-wrapper"}>{markup}</div>
+    }
+
+    fetch() {
+        fetch('http://localhost:5000/topnews.rss')
+            .then((response) => response.text())
+            .then((responseData) => rssParser.parse(responseData))
+            .then((rss) => {
+
+                console.log(rss.title);
+                console.log(rss.items.length);
+
+
+                if (rss.items) {
+                    console.log(rss.items.length);
+                    let teasers: TeaserData[] = [];
+                    for (let item of rss.items) {
+                        console.log(item);
+                        let t: TeaserData = {
+                            // @ts-ignore
+                            topic: item.published,
+                            // @ts-ignore
+                            introText: item.description,
+                            // @ts-ignore
+                            headline: item.title,
+                            img: item.enclosures[0].url
+                        };
+                        teasers.push(t);
+                        console.log(t)
+                    }
+                    // @ts-ignore
+                    this.setState({
+                        teasers: teasers
+                    })
+                } else {
+                    console.log("No Items in Feed or error.")
+                }
+            });
+
+
+
+    }
+}
+
+export default FeedComponent;

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:welt="https://www.welt.de/spec" version="2.0">
+  <channel>
+    <title>TOPNEWS - WELT</title>
+    <link>https://www.welt.de/feeds/topnews</link>
+    <description>TOPNEWS - Aktuelle Nachrichten der WELT</description>
+    <language>de</language>
+    <pubDate>Thu, 06 Jun 2019 15:30:01 GMT</pubDate>
+    <image>
+      <title>TOPNEWS - WELT</title>
+      <url>https://www.welt.de/rss-logo.png</url>
+      <link>https://www.welt.de/feeds/topnews</link>
+      <width>90</width>
+      <height>36</height>
+    </image>
+    <item>
+      <title>„Auf Mord kommst du in einer solchen Situation erst mal nicht“</title>
+      <link>https://www.welt.de/politik/deutschland/plus194865143/Mord-an-Walter-Luebcke-Auf-Mord-kommst-du-in-einer-solchen-Situation-erst-mal-nicht.html</link>
+      <description>Noch immer hat die Polizei kein Motiv für den Mord am per Kopfschuss getöteten Lokalpolitiker. Rechte hatten ihn im Netz angefeindet – die Ermittlungen konzentrieren sich derzeit offenbar auf die Besucher der Kirmes. Im Ort herrscht Unruhe. Eine Spurensuche in Istha.</description>
+      <enclosure url="https://www.welt.de/img/politik/deutschland/mobile194872743/0651626067-ci23x11-w780/Mord-an-Wolfgang-Luebcke-Die-Terrasse-ist.jpg" type="image/jpeg" />
+      <category>Deutschland</category>
+      <pubDate>Thu, 06 Jun 2019 13:19:34 GMT</pubDate>
+      <author>Tina Kaiser</author>
+      <guid>194865143</guid>
+      <welt:premium>true</welt:premium>
+      <dc:creator>Tina Kaiser</dc:creator>
+      <dc:subject>Mord an Walter Lübcke</dc:subject>
+      <welt:topic>Mord an Walter Lübcke</welt:topic>
+    </item>
+    <item>
+      <title>Experten zerpflücken Energiewende-Bericht</title>
+      <link>https://www.welt.de/wirtschaft/article194844707/Energiewende-Experten-zerpfluecken-Bericht-der-Bundesregierung.html</link>
+      <description>Alle drei Jahre unterzieht die Regierung ihre Energiewende einer Analyse. Doch der aktuelle Fortschrittsbericht ist für Experten eine große Enttäuschung. Sie sprechen von einer vertanen Chance – und beim CO2-Sparen von einem Totalausfall.</description>
+      <enclosure url="https://www.welt.de/img/wirtschaft/mobile194851851/7191620627-ci23x11-w780/Windkraftanlagen.jpg" type="image/jpeg" />
+      <category>Wirtschaft</category>
+      <pubDate>Thu, 06 Jun 2019 11:47:35 GMT</pubDate>
+      <author>Daniel Wetzel</author>
+      <guid>194844707</guid>
+      <welt:premium>false</welt:premium>
+      <dc:creator>Daniel Wetzel</dc:creator>
+      <dc:subject>Regierungskommission</dc:subject>
+      <welt:topic>Regierungskommission</welt:topic>
+      <welt:qcu>Nach einiger Verzögerung liegt nun der zweite große Fortschrittsbericht zur Energiewende vor. Doch das Papier aus dem Hause von Bundeswirtschaftsminister Peter Altmaier (CDU) liefert nicht das, was es soll. Eine Expertenkommission äußert sich enttäuscht über den Fortschrittsbericht der Regierung.</welt:qcu>
+    </item>
+    <item>
+      <title>Ryanair tauft Boeing 737 Max kurzerhand um</title>
+      <link>https://www.welt.de/wirtschaft/article194888761/Ungluecksflieger-Ryanair-tauft-Boeing-737-Max-in-737-Gamechanger-um.html</link>
+      <description>Als hätte sie auf Donald Trump gehört: Die Billigairline Ryanair streicht den Hinweis auf das Boeing-Unglücksmodell. Sie nennt es ab sofort „Gamechanger“ und will sich so als europäischer Vorreiter in Sachen Klimaschutz positionieren.</description>
+      <enclosure url="https://www.welt.de/img/wirtschaft/mobile194888759/4041627587-ci23x11-w780/FAA-Kein-Zeitplan-fuer-Startgenehmigung-fuer-Boeings-737-Max.jpg" type="image/jpeg" />
+      <category>Wirtschaft</category>
+      <pubDate>Thu, 06 Jun 2019 14:26:07 GMT</pubDate>
+      <author>Gerhard Hegmann</author>
+      <guid>194888761</guid>
+      <welt:premium>false</welt:premium>
+      <dc:creator>Gerhard Hegmann</dc:creator>
+      <dc:subject>„Gamechanger“</dc:subject>
+      <welt:topic>„Gamechanger“</welt:topic>
+    </item>
+    <item>
+      <title>Bei Fiat-Renault zeigt Macron sein wahres Gesicht</title>
+      <link>https://www.welt.de/wirtschaft/article194888591/Geplatzte-Fusion-Bei-Fiat-Renault-zeigt-Macron-sein-wahres-Gesicht.html</link>
+      <description>Der französische Präsident Macron gibt gerne den großen Europäer. Doch im Praxistest ist er dann doch nur ein kleinmütiger Franzose – wie sich bei den Verhandlungen der Autobauer Fiat und Renault zeigt, die jetzt gescheitert sind.</description>
+      <enclosure url="https://www.welt.de/img/wirtschaft/mobile194888589/8811623477-ci23x11-w780/French-President-Emmanuel-Macron-wa.jpg" type="image/jpeg" />
+      <category>Wirtschaft</category>
+      <pubDate>Thu, 06 Jun 2019 14:34:09 GMT</pubDate>
+      <author>Olaf Gersemann</author>
+      <guid>194888591</guid>
+      <welt:premium>false</welt:premium>
+      <dc:creator>Olaf Gersemann</dc:creator>
+      <dc:subject>Geplatzte Fusion</dc:subject>
+      <welt:topic>Geplatzte Fusion</welt:topic>
+    </item>
+    <item>
+      <title>AKK statt Kanzlerin – Merkel sagt ARD und ZDF ab</title>
+      <link>https://www.welt.de/politik/deutschland/article194895169/Sommerinterviews-Bundeskanzlerin-Angela-Merkel-sagt-ARD-und-ZDF-ab.html</link>
+      <description>Alljährlich begrüßen Journalisten die Chefs der großen deutschen Parteien zu Interviews während der Sommerpause. Angela Merkel will als Bundeskanzlerin nicht teilnehmen. Stattdessen stellt sich die neue CDU-Chefin den Fragen.</description>
+      <enclosure url="https://www.welt.de/img/bildergalerien/mobile194894847/6101626497-ci23x11-w780/Angela-Merkel-im-Sommer-Interview.jpg" type="image/jpeg" />
+      <category>Deutschland</category>
+      <pubDate>Thu, 06 Jun 2019 15:24:47 GMT</pubDate>
+      <guid>194895169</guid>
+      <welt:premium>false</welt:premium>
+      <dc:subject>Sommerinterviews</dc:subject>
+      <welt:topic>Sommerinterviews</welt:topic>
+      <dc:source>AFP/dpa/mpf</dc:source>
+      <welt:source>AFP/dpa/mpf</welt:source>
+    </item>
+    <item>
+      <title>Mit 20 Jahren. Mein Abschied von der SPD</title>
+      <link>https://www.welt.de/politik/deutschland/article194885037/Mareike-Froitzheim-Mit-20-Jahren-Mein-Abschied-von-der-SPD.html</link>
+      <description>Die SPD enttäuscht konsequent. Bei der Europawahl erreichten die Sozialdemokraten acht Prozent der Jungwähler. Mareike Froitzheim ist 20 Jahre alt und gerade aus der Partei ausgetreten. Wie konnte es soweit kommen? Per Video macht sie Schluss.</description>
+      <enclosure url="https://www.welt.de/img/videos/mobile194892667/9251627927-ci23x11-w780/060619-SV-169-Abrechnung-Liebe-SPD-1-jpg.jpg" type="image/jpeg" />
+      <category>Deutschland</category>
+      <pubDate>Thu, 06 Jun 2019 15:05:24 GMT</pubDate>
+      <guid>194885037</guid>
+      <welt:premium>false</welt:premium>
+      <dc:subject>Mareike Froitzheim</dc:subject>
+      <welt:topic>Mareike Froitzheim</welt:topic>
+    </item>
+    <item>
+      <title>Bis zu 12 Prozent Rendite – Das sind die neuen Zinsoasen für Mutige</title>
+      <link>https://www.welt.de/finanzen/plus193172441/Crowdlending-Diese-Regeln-sollten-Sparer-beachten.html</link>
+      <description>Kreditplattformen im Internet locken Geldgeber mit zweistelligen Renditen. Die Darlehen von Privatperson zu Privatperson, auch Crowdlending genannt, sind zwar lukrativ, aber nicht ungefährlich. Diese Regeln sollten Sparer unbedingt beachten.</description>
+      <enclosure url="https://www.welt.de/img/finanzen/mobile194844583/6731626247-ci23x11-w780/1138588738.jpg" type="image/jpeg" />
+      <category>Geld</category>
+      <pubDate>Thu, 06 Jun 2019 12:51:00 GMT</pubDate>
+      <author>Daniel Eckert</author>
+      <guid>193172441</guid>
+      <welt:premium>true</welt:premium>
+      <dc:creator>Daniel Eckert</dc:creator>
+      <dc:subject>Kreditplattformen</dc:subject>
+      <welt:topic>Kreditplattformen</welt:topic>
+    </item>
+    <item>
+      <title>Deutsche Hyperschallwaffen gegen „Bedrohungen der konkreten Art“</title>
+      <link>https://www.welt.de/wirtschaft/article194794397/Verteidigung-Deutschland-entwickelt-Hyperschallwaffen.html</link>
+      <description>Die veränderte Weltlage stellt auch die Verteidigung vor neue Herausforderungen. Deutschland entwickelt nun Waffen, die mit fünffacher Schallgeschwindigkeit ihr Ziel treffen. Auch andere Länder arbeiten mit Hochdruck an solchen Projekten.</description>
+      <enclosure url="https://www.welt.de/img/wirtschaft/mobile194794393/5121623247-ci23x11-w780/Seehofer-besucht-MBDA-3.jpg" type="image/jpeg" />
+      <category>Wirtschaft</category>
+      <pubDate>Thu, 06 Jun 2019 11:07:15 GMT</pubDate>
+      <author>Gerhard Hegmann</author>
+      <guid>194794397</guid>
+      <welt:premium>false</welt:premium>
+      <dc:creator>Gerhard Hegmann</dc:creator>
+      <dc:subject>Militärinnovation</dc:subject>
+      <welt:topic>Militärinnovation</welt:topic>
+    </item>
+    <item>
+      <title>Funkstille nach dem Bewerbungsgespräch? So reagieren Sie richtig</title>
+      <link>https://www.welt.de/wirtschaft/karriere/plus194845689/Rueckmeldung-nach-Vorstellungsgespraech-Was-man-bei-Funkstille-tun-kann.html</link>
+      <description>In Zeiten von Online-Bewerbungen erhalten Jobsuchende oft gar keine Rückmeldung mehr. Sogar nach dem Vorstellungsgespräch tauchen einige Unternehmen ab. Mit diesen Fragen beugen Sie der Funkstille vor – und so aufdringlich dürfen Sie sein.</description>
+      <enclosure url="https://www.welt.de/img/wirtschaft/karriere/mobile194845687/7211622317-ci23x11-w780/Woman-with-tablet-leaning-on-table.jpg" type="image/jpeg" />
+      <category>Karriere</category>
+      <pubDate>Thu, 06 Jun 2019 11:51:13 GMT</pubDate>
+      <author>Melanie Trimborn</author>
+      <guid>194845689</guid>
+      <welt:premium>true</welt:premium>
+      <dc:creator>Melanie Trimborn</dc:creator>
+      <dc:subject>Ghosting im Berufsleben</dc:subject>
+      <welt:topic>Ghosting im Berufsleben</welt:topic>
+    </item>
+    <item>
+      <title>„Unvorstellbare Grausamkeiten, die Menschen Kindern antun“</title>
+      <link>https://www.welt.de/politik/deutschland/article194894465/Missbrauch-Unvorstellbare-Grausamkeiten-die-Menschen-Kindern-antun.html</link>
+      <description>Der Missbrauchsbeauftragte der Bundesregierung muss eine erschreckende Zahl nach oben korrigieren: Mindestens eine Million gefolterte oder sexuell misshandelte Kinder leben unter uns. Sogar Säuglinge zählen zu den Opfern.</description>
+      <enclosure url="https://www.welt.de/img/regionales/nrw/mobile192413621/9471620157-ci23x11-w780/Schweigeaktion-fuer-Kinder-von-Luegde.jpg" type="image/jpeg" />
+      <category>Deutschland</category>
+      <pubDate>Thu, 06 Jun 2019 15:30:01 GMT</pubDate>
+      <author>Freia Peters</author>
+      <guid>194894465</guid>
+      <welt:premium>false</welt:premium>
+      <dc:creator>Freia Peters</dc:creator>
+      <dc:subject>Kindesmissbrauch</dc:subject>
+      <welt:topic>Kindesmissbrauch</welt:topic>
+    </item>
+    <item>
+      <title>Kurdische Gemeinde hält Kritik an Polizei für „völlig übertrieben“</title>
+      <link>https://www.welt.de/politik/article194871407/Kurdische-Gemeinde-Kritik-an-Koelner-Polizei-voellig-uebertrieben.html</link>
+      <description>Nach der Festnahme von zehn vermeintlich verdächtigen Muslimen im Kölner Hauptbahnhof gab es massive Kritik an der Polizei. Nun verteidigen die Kurdische Gemeinde Deutschland und ihr Generalsekretär den Einsatz.</description>
+      <enclosure url="https://www.welt.de/img/politik/deutschland/mobile182284822/0851622527-ci23x11-w780/Nach-Geiselnahme-im-Koelner-Hauptbahnhof-2.jpg" type="image/jpeg" />
+      <category>Politik</category>
+      <pubDate>Thu, 06 Jun 2019 13:57:17 GMT</pubDate>
+      <guid>194871407</guid>
+      <welt:premium>false</welt:premium>
+      <dc:subject>Kontrollen an Kölner Hauptbahnhof</dc:subject>
+      <welt:topic>Kontrollen an Kölner Hauptbahnhof</welt:topic>
+      <dc:source>AFP/mpf</dc:source>
+      <welt:source>AFP/mpf</welt:source>
+    </item>
+    <item>
+      <title>Eine heikle Hochzeit</title>
+      <link>https://www.welt.de/sport/fussball/plus194881881/Oezils-Hochzeit-Dringender-Rat-an-Freunde-Keine-Fotos-mit-Erdogan.html</link>
+      <description>Mesut Özil heiratet das Model Amine Gülşe in der Türkei. Die Feierlichkeiten sind eine Liebeserklärung an das Land, Trauzeuge wird wohl Präsident Erdogan. Eingeladen wurde aus dem Kreise der Nationalmannschaft nur einer. Doch können Prominente überhaupt problemlos mitfeiern?</description>
+      <enclosure url="https://www.welt.de/img/sport/mobile194881879/2531629517-ci23x11-w780/Oezil-ueberreicht-Einladung-zur-Hochzeit.jpg" type="image/jpeg" />
+      <category>Fußball</category>
+      <pubDate>Thu, 06 Jun 2019 15:05:41 GMT</pubDate>
+      <author>Julien Wolff</author>
+      <guid>194881881</guid>
+      <welt:premium>true</welt:premium>
+      <dc:creator>Julien Wolff</dc:creator>
+      <dc:subject>Mesut Özil</dc:subject>
+      <welt:topic>Mesut Özil</welt:topic>
+    </item>
+  </channel>
+</rss>

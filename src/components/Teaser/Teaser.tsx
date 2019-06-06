@@ -2,12 +2,14 @@ import "./Teaser.css"
 import React from 'react';
 import FallbackImage from "./FallbackImage/FallbackImage";
 
-function Teaser(props: { topic: string, headline: string, introText: string }) {
+function Teaser(props: { topic: string, headline: string, introText: string, img: string }) {
     return <div className={"teaser-box"}>
-        <div className={"topic"}>{props.topic}</div>
+        <img src={props.img}/>
         <div className={"headline"}>{props.headline}</div>
-        <FallbackImage/>
+        {/*<FallbackImage/>*/}
+
         <div>{props.introText}</div>
+        <div className={"topic"}>{props.topic}</div>
     </div>
 }
 
