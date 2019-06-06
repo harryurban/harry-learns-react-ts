@@ -7,6 +7,7 @@ function Teaser(props: { topic: string, headline: string, introText: string }) {
         <div className={"topic"}>{props.topic}</div>
         <div className={"headline"}>{props.headline}</div>
         <FallbackImage/>
+
         <div>
             {props.introText}
         </div>

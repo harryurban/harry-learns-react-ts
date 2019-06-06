@@ -34,4 +34,5 @@
 
 Body {
   background-color: lightgray;
+  display: flex;
 }
