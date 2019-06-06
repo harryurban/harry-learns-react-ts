@@ -1,7 +1,8 @@
-$imageHeight = 100px;
+$imageWidth: 100%;
 
 .fallback-image {
+  margin-left: 10px;
+  margin-right: 10px;
     background-color: grey;
-    height: 90px;
-    width: 160px;
+    height: 200px;
 }
